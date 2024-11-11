@@ -17,6 +17,7 @@
 	<description>springboot3 integrate sa-token</description>
 
     <properties>
+        <maven.javadoc.skip>true</maven.javadoc.skip>
 		<springboot3.version>3.0.1</springboot3.version>
     </properties>
     

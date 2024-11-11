@@ -15,8 +15,9 @@
 	<name>sa-token-reactor-spring-boot3-starter</name>
     <artifactId>sa-token-reactor-spring-boot3-starter</artifactId>
 	<description>springboot3 reactor integrate sa-token</description>
-	
+
     <properties>
+        <maven.javadoc.skip>true</maven.javadoc.skip>
 		<springboot3.version>3.0.1</springboot3.version>
     </properties>
 	
